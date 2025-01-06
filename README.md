@@ -21,3 +21,4 @@ IN1 → Pin 8 (Arduino or ESP32) IN2 → Pin 9 VCC → 5V GND → GND 3. Devices
 Connect the positive terminal of the device to the relay's NO (Normally Open) terminal. Connect the COM (Common) terminal to the power source.
 
 Training Voice Commands Using Elechouse Voice Recognition Module V3 Train the module with the following voice commands: "Turn on light" "Turn off light" "Turn on fan" "Turn off fan"
+![task 4](https://github.com/user-attachments/assets/d9dcd0d8-262a-4159-93fa-66574db26839)
